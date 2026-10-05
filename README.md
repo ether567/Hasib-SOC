@@ -1,2 +1,10 @@
 # Hasib-SOC
-This is a SOC task repository
+
+This is my SOC task repository.
+
+I will be updated all time
+
+
+
+
+
