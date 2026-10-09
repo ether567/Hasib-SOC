@@ -1,0 +1,5 @@
+wan :08002766F34D
+lan: 08002701406F
+NVNA.r1.kvGcKR0+Oz+UJChL5DB*0mGl
+
+if i forget the wazuh password then i run this command
